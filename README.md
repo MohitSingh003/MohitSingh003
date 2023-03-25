@@ -1,3 +1,4 @@
+![logo](https://github.com/MohitSingh003/MohitSingh003/blob/main/Twitter%20header%20-%203.png)
 <h1 align="center">Hi There 👋, I'm Mohit Singh Sahare</h1>
 <h3 align="center">A passionate Designer diving into Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/YQtUii6.gif">
