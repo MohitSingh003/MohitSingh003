@@ -1,6 +1,7 @@
 ![logo](https://github.com/MohitSingh003/MohitSingh003/blob/main/Twitter%20header%20-%203.png)
 <h1 align="center">Yabadabadoo 👋, I'm Mohit Singh Sahare</h1>
 <h3 align="center">A passionate Designer diving into Development.</h3>
+<h3 align="center">Yeah, I'm Goofy....Don't mind this -></h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/YQtUii6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsingh003&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsingh003" /> </p>
